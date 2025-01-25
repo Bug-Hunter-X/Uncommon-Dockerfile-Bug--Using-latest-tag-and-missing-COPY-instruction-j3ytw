@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with an uncommon bug. The bug is that the Dockerfile uses the latest tag for the base image and it does not copy the application file into the image.  The solution shows how to fix the bug.
